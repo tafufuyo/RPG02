@@ -1,0 +1,25 @@
+{
+  "testTalk01": [
+    {
+      "speaker": "talker1",
+      "text": "test1"
+    },
+    {
+      "speaker": "talker2",
+      "text": "test2"
+    },
+    {
+      "speaker": "talker3",
+      "text": "test3"
+    },
+    {
+      "speaker": "choice",
+      "text": "please select your choice.",
+      "select1": ["yes","no"]
+    },
+    {
+      "speaker": "talker4",
+      "text": "test4"
+    }
+  ]
+}
